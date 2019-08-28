@@ -1,0 +1,7 @@
+C:\Users\adams\source\repos\C#\Files\bin\Debug\Files.exe.config
+C:\Users\adams\source\repos\C#\Files\bin\Debug\Files.exe
+C:\Users\adams\source\repos\C#\Files\bin\Debug\Files.pdb
+C:\Users\adams\source\repos\C#\Files\obj\Debug\Files.csprojAssemblyReference.cache
+C:\Users\adams\source\repos\C#\Files\obj\Debug\Files.csproj.CoreCompileInputs.cache
+C:\Users\adams\source\repos\C#\Files\obj\Debug\Files.exe
+C:\Users\adams\source\repos\C#\Files\obj\Debug\Files.pdb
